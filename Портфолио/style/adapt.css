@@ -1,0 +1,695 @@
+@media screen and (min-width: 360px) and (max-width: 370px) {
+    body {
+        text-align: center;
+    }
+
+    .nav {
+        display: block;
+        height: 100px;
+    }
+
+    .navigation-bar {
+        width: 100%;
+        justify-content: space-evenly;
+        margin-top: 45px;
+    }
+
+    .nav .button {
+        display: none;
+    }
+
+    .text {
+        padding-left: 3em;
+    }
+
+    .logo-images {
+        padding-left: -30px;
+    }
+
+    .logo {
+        margin-top: -15px;
+        display: block;
+        width: 0;
+    }
+
+    .hero-text {
+        padding-left: 0;
+    }
+
+    .hero-text-title {
+        margin-top: 86px;
+        width: 100%;
+        height: 3em;
+    }
+
+    .mulish {
+        width: 100%;
+    }
+
+    .first-block {
+        margin-bottom: 25px;
+    }
+
+    .zero {
+        margin-top: 15px;
+    }
+
+    .information_title {
+        margin-bottom: -14px;
+    }
+
+    .group {
+        display: none;
+    }
+
+    .group2 {
+        margin-top: 0;
+        margin-right: 0;
+    }
+
+    .information {
+        display: block;
+    }
+
+    .content {
+        margin-top: 0;
+    }
+
+    .information {
+        display: block;
+    }
+
+    .information_text {
+        font-size: 18px;
+    }
+
+    .Content {
+        display: block;
+    }
+
+    .Content h1 {
+        width: 100%;
+    }
+
+    .group {
+        margin-right: 0; 
+        margin-top: 0;
+    }
+
+    .switch {
+        margin-left: 2em;
+        width: 278px;
+        margin-top: 30px;
+        padding-top: 14px;
+    }
+
+    .blocks {
+        margin-left: 0.7em;
+        margin-top: 34px;
+        display: block;
+    }
+
+    .block {
+        width: 100%;
+        justify-content: space-evenly;
+    }
+
+    .In-depth_metrics {
+        margin-left: 0;
+        margin-bottom: 100px;
+    }
+
+
+    .content_image {
+        display: none;
+    }
+
+    .nav {
+        width: 100%;
+
+    }
+    .hero3D {
+        display: none;
+    }
+
+    .second_content {
+        display: none;
+    }
+
+    .content_image {
+        display: none;
+    }
+
+    .first_block, .second_block, .third_block {
+        margin-bottom: 40px;
+    }
+
+    .next::after {
+        transition: .3s;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 500px) {
+    body {
+        text-align: center;
+    }
+
+    .nav {
+        display: block;
+        height: 100px;
+    }
+
+    .navigation-bar {
+        width: 100%;
+        justify-content: space-evenly;
+        margin-top: 45px;
+    }
+
+    .nav .button {
+        display: none;
+    }
+
+    .text {
+        padding-left: 3.2em;
+    }
+
+    .logo-images {
+        padding-left: -30px;
+    }
+
+    .logo {
+        margin-top: -15px;
+        display: block;
+        width: 0;
+    }
+
+    .hero-text {
+        padding-left: 0;
+    }
+
+    .hero-text-title {
+        margin-top: 86px;
+        width: 100%;
+        height: 3em;
+    }
+
+    .mulish {
+        width: 100%;
+    }
+
+    .first-block {
+        margin-bottom: 25px;
+    }
+
+    .zero {
+        margin-top: 15px;
+    }
+
+    .information_title {
+        margin-bottom: -14px;
+    }
+
+    .group {
+        display: none;
+    }
+
+    .group2 {
+        margin-top: 0;
+        margin-right: 0;
+    }
+
+    .information {
+        display: block;
+    }
+
+    .content {
+        margin-top: 0;
+    }
+
+    .information {
+        display: block;
+    }
+
+    .information_text {
+        font-size: 18px;
+    }
+
+    .Content {
+        display: block;
+    }
+
+    .Content h1 {
+        width: 100%;
+    }
+
+    .group {
+        margin-right: 0; 
+        margin-top: 0;
+    }
+
+    .switch {
+        margin-left: 5rem;
+        width: 278px;
+        margin-top: 30px;
+        padding-top: 14px;
+    }
+
+    .blocks {
+        margin-left: 4em;
+        margin-top: 34px;
+        display: block;
+    }
+
+    .block {
+        width: 100%;
+        justify-content: space-evenly;
+    }
+
+    .In-depth_metrics {
+        margin-left: 0;
+        margin-bottom: 100px;
+    }
+
+
+    .content_image {
+        display: none;
+    }
+
+    .nav {
+        width: 100%;
+
+    }
+    .hero3D {
+        display: none;
+    }
+
+    .second_content {
+        display: none;
+    }
+
+    .content_image {
+        display: none;
+    }
+
+    .first_block, .second_block, .third_block {
+        margin-bottom: 40px;
+    }
+}
+
+@media screen and (min-width: 540px) and (max-width: 719px) {
+    body {
+        text-align: center;
+    }
+
+    .nav {
+        display: block;
+        height: 100px;
+    }
+
+    .navigation-bar {
+        width: 100%;
+        justify-content: space-evenly;
+        margin-top: 45px;
+    }
+
+    .nav .button {
+        display: none;
+    }
+
+    .text {
+        padding-left: 3.5em;
+    }
+
+    .logo-images {
+        padding-left: -30px;
+    }
+
+    .logo {
+        margin-top: -15px;
+        display: block;
+        width: 0;
+    }
+
+    .hero-text {
+        padding-left: 0;
+    }
+
+    .hero-text-title {
+        margin-top: 86px;
+        width: 100%;
+        height: 2em;
+    }
+
+    .change_size {
+        height: 25px;
+    }
+
+    .mulish {
+        width: 100%;
+    }
+
+    .first-block {
+        margin-bottom: 25px;
+    }
+
+    .zero {
+        margin-top: 20px;
+    }
+
+    .information_title {
+        margin-bottom: -14px;
+    }
+
+    .group {
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: stretch;
+        height: 7em;
+        width: 23em;
+        margin-left: 2em;
+        margin-right: 0; 
+        margin-top: -100px;
+    }
+
+    .inline {
+        display: inline;
+    }
+
+    .group2 {
+        margin-top: 70px;
+        margin-right: 0;
+    }
+
+    .information {
+        display: block;
+    }
+
+    .content {
+        margin-top: 0;
+    }
+
+    .information {
+        display: block;
+    }
+
+    .information_text {
+        font-size: 18px;
+    }
+
+    .Content {
+        display: block;
+    }
+
+    .Content h1 {
+        width: 100%;
+    }
+
+    .switch {
+        margin-left: 7rem;
+        width: 278px;
+        margin-top: 30px;
+        padding-top: 14px;
+    }
+
+    .blocks {
+        margin-left: 4em;
+        margin-top: 34px;
+        display: block;
+    }
+
+    .block {
+        width: 100%;
+        justify-content: space-evenly;
+    }
+
+    .In-depth_metrics {
+        margin-left: 0;
+        margin-bottom: 100px;
+    }
+
+    .content_image {
+        display: none;
+    }
+
+    .nav {
+        width: 100%;
+
+    }
+    .hero3D {
+        display: none;
+    }
+
+    .second_content {
+        display: none;
+    }
+
+    .content_image {
+        display: none;
+    }
+
+    .first_block, .second_block, .third_block {
+        margin-bottom: 40px;
+        width: 379px;
+    }
+}
+
+@media screen and (min-width: 720px) and (max-width: 1080px) {
+    body {
+        text-align: center;
+    }
+
+    .nav {
+        display: block;
+        height: 100px;
+    }
+
+    .navigation-bar {
+        width: 100%;
+        justify-content: space-evenly;
+        margin-top: 45px;
+    }
+
+    .nav .button {
+        display: none;
+    }
+
+    .text {
+        padding-left: 3.9em;
+    }
+
+    .logo-images {
+        padding-left: -30px;
+    }
+
+    .logo {
+        margin-top: -15px;
+        display: block;
+        width: 0;
+    }
+
+    .hero-text {
+        padding-left: 0;
+    }
+
+    .hero-text-title {
+        margin-top: 86px;
+        margin-left: 0.5em;
+        width: 68%;
+        height: 3em;
+    }
+
+    .change_size {
+        height: 3em;
+    }
+
+    .mulish {
+        width: 88%;
+        margin-left: 1em;
+    }
+
+    .starter {
+        width: 53%;
+        margin-left: 4em;
+        font-size: 20px;
+        font-family: 'Mulish', sans-serif;
+        color: #696871;
+    }
+
+    .info {
+        width: 53%;
+        margin-left: 4em;
+        font-size: 20px;
+        font-family: 'Mulish', sans-serif;
+        color: #696871;
+    }
+
+    .first-block {
+        margin-bottom: 25px;
+        width: 9em;
+    }
+
+    .zero {
+        margin-top: 20px;
+        margin-left: 1em;
+    }
+
+    .information_title {
+        margin-bottom: -14px;
+    }
+
+    .one {
+        margin-left: 1em;
+    }
+
+    .group {
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: stretch;
+        height: 6em;
+        width: 29em;
+        margin-left: 4em;
+        margin-right: 0; 
+        margin-top: -55px;
+    }
+
+    .inline {
+        display: inline;
+    }
+
+    .group2 {
+        margin-top: 70px;
+        margin-right: -54px;
+        width: 16em;
+    }
+
+    .title {
+        margin-left: -1em;
+    }
+
+    .size {
+        margin-left: 1em;
+    }
+
+    .btn {
+        font-size: 19px;
+        color: #5454D4;
+        margin-left: 0em;
+    }
+
+    .information {
+        display: flex;
+        align-items: baseline;
+    }
+
+    .content {
+        margin-top: 0;
+    }
+
+    .information {
+        display: flex;
+    }
+
+    .information_text {
+        font-size: 13px;
+        width: 12em;
+    }
+
+    .Content h1 {
+        width: 54%;
+        margin-right: 139px;
+    }
+
+    .switch {
+        margin-left: -7rem;
+        width: 279px;
+        margin-top: 128px;
+        padding-top: 14px;
+    }
+
+    .blocks {
+        margin-left: 4em;
+        margin-top: 34px;
+        flex-wrap: wrap;
+        margin-left: 0em;
+        width: 100%;
+    }
+
+    .block {
+        width: 99%;
+        justify-content: space-evenly;
+    }
+
+    .In-depth_metrics {
+        margin-left: 0;
+        margin-bottom: 100px;
+        justify-content: space-evenly;
+    }
+
+    .content_image {
+        margin-right: -149px;
+    }
+
+    .nav {
+        width: 100%;
+    }
+
+    .hero3D-images {
+        padding-left: 0;
+    }
+
+    .message {
+        padding-top: 255px;
+        padding-left: 229px;
+        height: 74px;
+    }
+
+    .pic {
+        height: 386px;
+    }
+
+    .change-location {
+        padding-top: 170px;
+        width: 322px;
+        height: 220px;
+        padding-left: 40px;
+    }
+
+    .subscription-index {
+        margin-top: 60px;
+        justify-content: space-evenly;
+    }
+
+    .second_content {
+        width: 247px;
+    }
+
+    .height {
+        height: 384px;
+    }
+
+    .height1 {
+        height: 105px;
+    }
+
+    .group3 {
+        width: 17em;
+        margin-left: -180px;
+    }
+
+    .pose_4 {
+        width: 274px;
+        height: 384px;
+        margin-left: -218px;
+    }
+
+    .chart_7 {
+        height: 239px;
+        margin-left: -106px;
+        margin-top: 22px;
+    }
+
+    .first_block, .second_block, .third_block {
+        margin-bottom: 40px;
+        width: 340px;
+    }
+}
